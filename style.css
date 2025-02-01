@@ -1,0 +1,153 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    color: rgb(255, 241, 241);
+}
+body{
+    background-color: rgb(0, 0, 0);
+}
+nav{
+    background-color: rgb(18, 15, 46);
+    color: antiquewhite;
+   
+    height:50px ;
+    
+}
+.Header
+h2{
+    font-style:italic;
+    color: rgb(233, 105, 20);
+    margin-top: 50px;
+    margin-right: 19cm;
+    margin-left:cm;
+}
+.fa-mug-hot{
+    font-size: 27px;
+    color: orangered;
+    margin-top: 10px;
+}
+i{
+    margin-left:7px;
+}
+
+.home{
+    background-color: blueviolet;
+    word-spacing: 2cm;
+    height: 30px;
+    li{
+        margin-left: 2cm;
+        margin-top: 50px;
+        
+    }
+}
+
+ul,li,h2,.login{
+    display: inline;
+    
+}
+.fa-star{
+    color: orangered;
+    display: inline;
+    word-spacing: 5px;
+}
+.fa-star-half-stroke{
+    color: orangered;
+}
+input{
+    color: black;
+    margin-left: 10cm;
+    height: 25px;
+    border-radius: 7px;
+    margin-top: 10px;
+}
+
+input{
+    display: inline;
+    margin-left:auto;
+    margin-bottom: 1%;
+    width: 7cm;
+    
+}
+li{
+    color:rgb(223, 214, 214);
+}
+li:hover{
+    color: rgb(228, 91, 11);
+    cursor: pointer;
+}
+.login
+input{
+    background-color: rgb(255, 255, 255);
+    color: black;
+    width: 2cm;
+    border-radius: 40%;
+    
+}
+
+.start{
+    width: 800px;
+    height: 320px;
+    box-shadow: inset -5px -5px white;
+}
+
+
+h1{
+    color: aliceblue;
+}
+.order{
+    color: rgb(13, 13, 14);
+    border-color: aliceblue;
+    border-width: 1px;
+    border-style: solid;
+    display: inline-block;
+    width: 220px;
+    margin-left:2cm ;
+    border-radius: 10px;
+
+}
+.stars{
+    padding-left: 0px;
+    color: orangered;
+    display: inline;
+}
+.count{
+    color: black;
+}
+input
+{
+    margin-left: .5cm;
+}
+.submit{
+    margin-left:6cm;
+    color: black;
+    background-color: rgb(255, 91, 25);
+    margin-top: 7px;
+    margin-bottom: 5px;
+}
+.items{
+
+    color: aliceblue;
+    border-color: aliceblue;
+    border-width: 1px;
+    border-radius: 10px;
+    border-style: solid;
+    display: inline-block;
+    width: 220px;
+    margin-left:4cm ;
+}
+input
+{
+    margin-left: .5cm;
+}
+.about
+h1{
+    color: rgb(241, 94, 25);
+    font-style: italic;
+    margin-left: 1cm;
+
+}
+.about
+h3{
+    color: rgb(241, 47, 15
+}
+
